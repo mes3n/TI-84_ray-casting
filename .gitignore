@@ -1,3 +1,11 @@
+bin/
+obj/
+.vscode
+
+*.bin
+*.src
+*.8xp
+
 # Prerequisites
 *.d
 
